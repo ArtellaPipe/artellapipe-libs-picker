@@ -1,0 +1,18 @@
+artellapipe.libs package
+========================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   artellapipe.libs.picker
+
+Module contents
+---------------
+
+.. automodule:: artellapipe.libs
+   :members:
+   :undoc-members:
+   :show-inheritance:
