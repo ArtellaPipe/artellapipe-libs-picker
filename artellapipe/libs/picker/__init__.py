@@ -11,5 +11,4 @@ def init():
     Initializes module
     """
 
-    print('Init picker dependencies ...')
-
+    pass
